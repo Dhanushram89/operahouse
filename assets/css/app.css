@@ -5658,7 +5658,7 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 
 [class~=site-navigation] ul>li[class~=level-0][class~=current_page_item]>a,
 .site-navigation ul>li.level-0:hover>a {
-  color: #000;
+  color: black;
 }
 
 .site-header .header-page-link .login-header .icon-user {
@@ -8089,7 +8089,7 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 
 .site-header .header-page-link .search-box .search-toggle,
 [class~=site-navigation] ul>li[class~=level-0]>a {
-  color: #000;
+  color: white;
 }
 
 [class~=form-login-register] [class~=box-form-login] [class~=active-login]:before {
