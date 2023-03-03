@@ -829,7 +829,7 @@ ul[class~=slick-dots] li[class~=slick-active] button,
 }
 
 body {
-  color: white;
+  color: black;
 }
 
 [class~=large-space] [class~=row]>div,
@@ -1192,7 +1192,7 @@ input[type=password] {
 
 h2,
 h3 {
-  color: #000;
+  color: white;
 }
 
 h3,
