@@ -30658,7 +30658,7 @@ body i[class~=slick-arrow][class~=fa-angle-right] {
 #site-footer.m-t-0,
 [class~=home] #site-footer {
   margin-top: 0;
-  background-color: #ef2a24;
+  
 }
 
 #site-footer[class~=small-space] [class~=row]>div {
